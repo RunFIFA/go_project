@@ -1,0 +1,19 @@
+syntax="proto3";
+option go_package = "./Services";
+import "Models.proto";
+
+message TestReponse {
+  string status=1;
+  string message=2;
+  repeated TestModel data=3;
+}
+
+message TestRequest{
+  //@inject_tag:json:"size",form:"size"
+  int32 size=1;
+  string name=2;
+}
+
+service TestService {
+  rpc TestReg(TestRequest) returns(TestReponse);
+}

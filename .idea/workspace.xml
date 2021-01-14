@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be08228a-66ee-4402-989b-46139e14d8d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../Program Files/Go/go1.14.13" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1mlyHA3N83fNuIFJhGog6ke3peQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/gomicro_test/Services/protos" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Go\src\myProject\gomicro_test\Services\protos" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Go\src\myProject\gomicro_test\Services" />
+      <recent name="D:\Go\src\myProject\gomicro_test\ServiceGW" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build gomicro (1)">
+    <configuration name="gen (1)" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Go\src\myProject\gomicro_test" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="gen.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mod" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="D:\Go\src\myProject\gomicro_test" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="mod.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gomicro (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <working_directory value="$PROJECT_DIR$/gomicro_http" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gomicro_http/server_main.go" />
+      <package value="gomicro" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gomicro" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <working_directory value="$PROJECT_DIR$/gomicro_http" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gomicro_http/prod_main.go" />
+      <package value="gomicro" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="myProject" />
+      <working_directory value="$PROJECT_DIR$/gomicro_test" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gomicro_test/main.go" />
+      <package value="myProject" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build gomicro (1)" />
+        <item itemvalue="Go Build.go build gomicro" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Batch.gen (1)" />
+        <item itemvalue="Batch.mod" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="https://goproxy.cn,direct" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="197" key="#Go_Modules" timestamp="1610085961731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="197" key="#Go_Modules/0.0.1366.728@0.0.1366.728" timestamp="1610085961731" />
+    <state x="415" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610082669109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="415" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1610082669109" />
+    <state width="1323" height="202" key="GridCell.Tab.0.bottom" timestamp="1610213181367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610213181367" />
+    <state width="1323" height="202" key="GridCell.Tab.0.center" timestamp="1610213181367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610213181367" />
+    <state width="1323" height="202" key="GridCell.Tab.0.left" timestamp="1610213181367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610213181367" />
+    <state width="1323" height="202" key="GridCell.Tab.0.right" timestamp="1610213181367">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="202" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610213181367" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1610213181364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610213181364" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1610213181364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1610213181364" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1610213181364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1610213181364" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1610213181364">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1610213181364" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1610201189216">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610201189216" />
+    <state x="339" y="89" width="596" height="594" key="find.popup" timestamp="1610089376824">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="89" width="596" height="594" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1610089376824" />
+  </component>
+</project>
